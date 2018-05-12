@@ -1,3 +1,3 @@
 # Test
-Nothing but a test
+Nothing but a test.
 It's cool
